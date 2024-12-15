@@ -1,0 +1,21 @@
+.header {
+  background-color: #304fff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px 25px;
+  border-radius: 10px;
+  margin-bottom: 32px;
+}
+
+.userInfo {
+  font-size: 1.3rem;
+}
+
+.footer {
+  background-color: #304fff;
+  padding: 15px 25px;
+  border-radius: 10px;
+  text-align: center;
+  margin-top: 32px;
+}
